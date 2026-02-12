@@ -1,4 +1,4 @@
-// filepath: d:\AI\Graph-RAG\README.md
+
 # 🔗 Graph RAG - Interactive Knowledge Graph Prototype
 
 An interactive frontend prototype that visually demonstrates a Knowledge Graph powered Retrieval-Augmented Generation (RAG) system.
@@ -21,7 +21,7 @@ An interactive frontend prototype that visually demonstrates a Knowledge Graph p
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Graph-RAG.git
+https://github.com/Thirumoorthy369/Graph-RAG.git
 
 # Open in browser
 cd Graph-RAG
